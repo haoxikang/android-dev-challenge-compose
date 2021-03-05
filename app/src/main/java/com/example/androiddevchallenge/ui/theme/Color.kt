@@ -20,4 +20,6 @@ import androidx.compose.ui.graphics.Color
 val purple200 = Color(0xFFBB86FC)
 val purple500 = Color(0xFF6200EE)
 val purple700 = Color(0xFF3700B3)
-val teal200 = Color(0xFF03DAC5)
+val teal200 = Color(131, 238, 191)
+val backgroundDark = Color(49, 58, 73)
+val backgroundLight = Color(240, 240, 240)
